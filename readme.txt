@@ -1,5 +1,5 @@
 === Adding drop down roles in registration ===
-Contributors: madiri salman aashish
+Contributors: madiriaashish
 Tags: form, forms, form builder, form maker, form creator, form generator, contact form, form widget, form plugin, bootstrap forms, jquery forms, form manager, ajax forms,registration
 Requires at least: 3.3
 Tested up to: 4.2.2
