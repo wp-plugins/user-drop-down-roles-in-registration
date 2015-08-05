@@ -17,9 +17,9 @@ This plugin add the user roles drop like administration,editor etc in registrati
 
 
 == Changelog ==
-=  Adding drop down roles in registration 2.1.8 =
 
 = Adding drop down roles in registration 1.0 =
+
 * This plugin add the user roles drop like administration,editor etc in registration forms it support in woo commerce,and default registration.
 
 
